@@ -9,3 +9,6 @@ to run the application with docker installed:
 - open browser to localhost:8080
 - upload X_test.csv file lo load values for inference 
 - click submit to get data with classifications.
+
+Now try getting it into a k8s environment.
+For refrence, use files in my repo https://github.com/fjss75/k8s
